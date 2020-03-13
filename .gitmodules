@@ -1,0 +1,3 @@
+[submodule "pubmed_parser"]
+	path = pubmed_parser
+	url = https://github.com/titipata/pubmed_parser

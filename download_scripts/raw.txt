@@ -1,0 +1,17 @@
+<script>addRow("comm_use.0-9A-B.txt.tar.gz","comm_use.0-9A-B.txt.tar.gz",0,4072606314,"3.8 GB",1583856960,"11/03/2020, 03:16:00");</script>
+<script>addRow("comm_use.A-B.xml.tar.gz","comm_use.A-B.xml.tar.gz",0,5585607071,"5.2 GB",1583934540,"12/03/2020, 00:49:00");</script>
+<script>addRow("comm_use.C-H.txt.tar.gz","comm_use.C-H.txt.tar.gz",0,5329146137,"5.0 GB",1584033060,"13/03/2020, 04:11:00");</script>
+<script>addRow("comm_use.C-H.xml.tar.gz","comm_use.C-H.xml.tar.gz",0,7087908782,"6.6 GB",1583751720,"09/03/2020, 22:02:00");</script>
+<script>addRow("comm_use.I-N.txt.tar.gz","comm_use.I-N.txt.tar.gz",0,5232977028,"4.9 GB",1584029340,"13/03/2020, 03:09:00");</script>
+<script>addRow("comm_use.I-N.xml.tar.gz","comm_use.I-N.xml.tar.gz",0,7306648860,"6.8 GB",1583940600,"12/03/2020, 02:30:00");</script>
+<script>addRow("comm_use.O-Z.txt.tar.gz","comm_use.O-Z.txt.tar.gz",0,7511518952,"7.0 GB",1583943660,"12/03/2020, 03:21:00");</script>
+<script>addRow("comm_use.O-Z.xml.tar.gz","comm_use.O-Z.xml.tar.gz",0,12074242008,"11.2 GB",1583583420,"07/03/2020, 23:17:00");</script>
+<script>addRow("comm_use.O-Z.xml.tar.gz.tmp","comm_use.O-Z.xml.tar.gz.tmp",0,11374952448,"10.6 GB",1584011760,"12/03/2020, 22:16:00");</script>
+<script>addRow("non_comm_use.0-9A-B.txt.tar.gz","non_comm_use.0-9A-B.txt.tar.gz",0,2018512715,"1.9 GB",1584034440,"13/03/2020, 04:34:00");</script>
+<script>addRow("non_comm_use.A-B.xml.tar.gz","non_comm_use.A-B.xml.tar.gz",0,2061099905,"1.9 GB",1583661120,"08/03/2020, 20:52:00");</script>
+<script>addRow("non_comm_use.C-H.txt.tar.gz","non_comm_use.C-H.txt.tar.gz",0,2785999951,"2.6 GB",1584038520,"13/03/2020, 05:42:00");</script>
+<script>addRow("non_comm_use.C-H.xml.tar.gz","non_comm_use.C-H.xml.tar.gz",0,2761356388,"2.6 GB",1583929620,"11/03/2020, 23:27:00");</script>
+<script>addRow("non_comm_use.I-N.txt.tar.gz","non_comm_use.I-N.txt.tar.gz",0,5287880077,"4.9 GB",1583771340,"10/03/2020, 03:29:00");</script>
+<script>addRow("non_comm_use.I-N.xml.tar.gz","non_comm_use.I-N.xml.tar.gz",0,5407320567,"5.0 GB",1583837940,"10/03/2020, 21:59:00");</script>
+<script>addRow("non_comm_use.O-Z.txt.tar.gz","non_comm_use.O-Z.txt.tar.gz",0,3656824114,"3.4 GB",1584036420,"13/03/2020, 05:07:00");</script>
+<script>addRow("non_comm_use.O-Z.xml.tar.gz","non_comm_use.O-Z.xml.tar.gz",0,2272550144,"2.1 GB",1583840520,"10/03/2020, 22:42:00");</script>
