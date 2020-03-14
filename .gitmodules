@@ -1,3 +1,6 @@
 [submodule "pubmed_parser"]
 	path = pubmed_parser
 	url = https://github.com/titipata/pubmed_parser
+[submodule "download_scripts/aria2"]
+	path = download_scripts/aria2
+	url = https://github.com/aria2/aria2.git
