@@ -24,7 +24,7 @@ jsonschema==3.2.0
 keyring==17.1.1
 keyrings.alt==3.1.1
 olefile==0.46
-paramiko==2.7.1
+paramiko==2.10.1
 pathlib2==2.3.5
 Pillow==8.3.2
 PyBluez==0.22
